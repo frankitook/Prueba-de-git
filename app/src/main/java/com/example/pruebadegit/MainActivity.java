@@ -12,11 +12,11 @@ private Button btn;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //asdf
-        int a=1 ,b=2 , c , i;
+        int a=1 ,b=2 , c;
 
         c=a+b;
 
-        i=2;
+
 
     }
 }
